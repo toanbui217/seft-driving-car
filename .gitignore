@@ -1,0 +1,9 @@
+# Models
+*.h5
+
+# Data
+data/IMG/
+data/*.csv
+
+# Environment
+venv/
